@@ -2,5 +2,5 @@
 Layout: slide
 title: "Welcome to our second slide!"
 ---
-Something new has been added
+>~~Witty quote with strike through~~
 Use the left arrow to go back! 
